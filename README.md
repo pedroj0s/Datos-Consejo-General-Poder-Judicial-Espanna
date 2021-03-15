@@ -1,5 +1,5 @@
 # Datos extraidos de la página Web del Consejo General Poder Judicial de España
-Dataset con los datos sobre juzgados publicados por el Consejo General del Poder Judicial de España en su página Web.
+Dataset con los datos sobre los juzgados españoles que han sido publicados por el Consejo General del Poder Judicial en su página Web.
 
 Datos incluidos:
 -Nombre del juzgado
